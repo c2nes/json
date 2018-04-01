@@ -1,4 +1,4 @@
-[![Javadocs](https://www.javadoc.io/badge/com.brewab.json/json.svg)](https://www.javadoc.io/doc/com.brewab.json/json)
+[![Javadocs](https://www.javadoc.io/badge/com.brewtab.json/json.svg)](https://www.javadoc.io/doc/com.brewtab.json/json)
 
 # JSON
 
